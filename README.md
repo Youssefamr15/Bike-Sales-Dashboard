@@ -1,4 +1,4 @@
-# Bike-Sales-Dashboard
+# Bike Sales Dashboard
 This project is a dynamic Bike Sale Dashboard created using Microsoft Excel. The dashboard provides insightful visualizations and data analysis for tracking and monitoring bike sales. Leveraging Pivot Tables and Pivot Charts, this project helps visualize key performance metrics such as total sales, sales by category, region, and time period.
 
 The project was developed following the Alex The Analyst tutorial series on YouTube, with a focus on learning how to effectively use Excel's data analysis tools to create a functional, interactive dashboard. The final dashboard allows users to drill down into specific data points, filter results, and gain actionable insights from the bike sales data.
